@@ -10,7 +10,7 @@ I'm a multiplatform development student from Spain, one of the languages ​​I
 - Electron js
 
 I have also used many UI technologies like now: 
-- figma 
+- Figma 
 - Adobe XD 
 
 And many more.
