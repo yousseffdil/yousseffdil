@@ -22,4 +22,4 @@ I am really passionate about graphic design, and in my free time, I enjoy editin
 And many others.
 
 
-![Texto alternativo](untitled.png)
+<img src="untitled.png" alt="Texto alternativo" width="500">
