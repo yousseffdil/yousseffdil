@@ -20,3 +20,6 @@ I am really passionate about graphic design, and in my free time, I enjoy editin
 - Blender 
 - DaVinci Resolve
 And many others.
+
+
+![Texto alternativo](untitled.png)
