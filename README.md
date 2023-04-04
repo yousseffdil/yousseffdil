@@ -19,5 +19,6 @@ I am really passionate about graphic design, and in my free time, I enjoy editin
 - Adobe Premiere 
 - Blender 
 - DaVinci Resolve
+
 And many others.
 
