@@ -22,4 +22,4 @@ I am really passionate about graphic design, and in my free time, I enjoy editin
 And many others.
 
 
-<img src="untitled.png" alt="Texto alternativo" width="500"style="position: relative; left: 50px; top: 20px;">
+<img src="untitled.png" alt="Texto alternativo" width="500">
