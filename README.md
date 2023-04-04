@@ -21,5 +21,3 @@ I am really passionate about graphic design, and in my free time, I enjoy editin
 - DaVinci Resolve
 And many others.
 
-
-<img src="untitled.png" alt="Texto alternativo" width="500">
