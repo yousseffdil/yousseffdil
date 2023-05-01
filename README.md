@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Youssef! 👋</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=yousseffdil&theme=tokyonight&show_icons=true" alt="Youssef's GitHub stats">
+ </div>
   <h2>About Me</h2>
   <p>I'm a multiplatform development student from Spain, one of the languages ​​I'm most fluent in would be:</p>
   <ul>
@@ -23,4 +24,4 @@
     <li>DaVinci Resolve</li>
   </ul>
   <p>And many others.</p>
-</div>
+
