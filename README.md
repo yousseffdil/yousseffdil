@@ -1,5 +1,7 @@
 
 # Hi, I'm Youssef! 👋
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffdil&theme=tokyonight&show_icons=true)
+
 
 ## 🚀 About Me
 I'm a multiplatform development student from Spain, one of the languages ​​I'm most fluent in would be:
