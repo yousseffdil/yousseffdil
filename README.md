@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Youssef! 👋</h1>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffdil&layout=donut)](https://github.com/yousseffdil/github-readme-stats) 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffdil&layout=donut">
 </div>
   <h2>About Me</h2>
   <p>I'm a multiplatform development student from Spain, one of the languages ​​I'm most fluent in would be:</p>
