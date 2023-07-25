@@ -7,6 +7,7 @@
   <ul>
     <li>HTML, CSS</li>
     <li>JavaScript</li>
+    <li>C#</li>
     <li>Python</li>
     <li>React</li>
     <li>Electron js</li>
