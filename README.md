@@ -7,7 +7,7 @@
   <ul>
     <li>HTML, CSS</li>
     <li>JavaScript</li>
-    <li>C#</li>
+    <li>C# .NET</li>
     <li>Python</li>
     <li>React</li>
     <li>Electron js</li>
@@ -23,6 +23,8 @@
     <li>Adobe Premiere</li>
     <li>Blender</li>
     <li>DaVinci Resolve</li>
+    <li>Photoshop</li>
+    <li>After Effects</li>
   </ul>
   <p>And many others.</p>
 
