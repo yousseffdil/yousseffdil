@@ -16,7 +16,6 @@
     <li>Figma</li>
     <li>Adobe XD</li>
   </ul>
-  <p>And many more.</p>
   <p>I am really passionate about graphic design, and in my free time, I enjoy editing videos and creating worlds using Blender. I have extensive experience with several video editing and 3D modeling software, such as:</p>
   <ul>
     <li>Adobe Premiere</li>
