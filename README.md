@@ -12,7 +12,6 @@
     <li>React</li>
     <li>Electron js</li>
   </ul>
-  <p>I have also used many UI technologies like now:</p>
   <ul>
     <li>Figma</li>
     <li>Adobe XD</li>
@@ -26,5 +25,3 @@
     <li>Photoshop</li>
     <li>After Effects</li>
   </ul>
-  <p>And many others.</p>
-
