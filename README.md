@@ -12,6 +12,7 @@
     <li>React</li>
     <li>Electron js</li>
   </ul>
+  <p>Also i fluent to use UI technologies</p>
   <ul>
     <li>Figma</li>
     <li>Adobe XD</li>
