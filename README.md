@@ -3,25 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffdil&layout=donut">
 </div>
   <h2>About Me</h2>
-  <p>I'm a multiplatform development student from Spain, one of the languages ​​I'm most fluent in would be:</p>
-  <ul>
-    <li>HTML, CSS</li>
-    <li>JavaScript</li>
-    <li>C# .NET</li>
-    <li>Python</li>
-    <li>React</li>
-    <li>Electron js</li>
-  </ul>
-  <p>Also i fluent to use UI technologies</p>
-  <ul>
-    <li>Figma</li>
-    <li>Adobe XD</li>
-  </ul>
-  <p>I am really passionate about graphic design, and in my free time, I enjoy editing videos and creating worlds using Blender. I have extensive experience with several video editing and 3D modeling software, such as:</p>
-  <ul>
-    <li>Adobe Premiere</li>
-    <li>Blender</li>
-    <li>DaVinci Resolve</li>
-    <li>Photoshop</li>
-    <li>After Effects</li>
-  </ul>
+  <p>I'm a multiplatform development student from Spain with a strong proficiency in several programming languages.
+  I also have expertise in UI/UX design tools like Figma and Adobe XD. My passion for graphic design extends into my free time, where I enjoy editing videos and creating immersive worlds using 3d software. Through these 
+  creative pursuits, I've not only honed my technical skills but also cultivated a mindset of continuous growth and learning.
+
+  Beyond technical proficiency, I'm committed to personal development and strive to embrace new challenges with enthusiasm. I firmly believe that every project, whether it's coding a new feature or refining a design, offers  
+  an opportunity for growth and innovation.
+  I'm eager to apply my skills and continue learning in the dynamic field of software development and design, while fostering personal and professional growth along the way.</p>
