@@ -16,8 +16,7 @@
   an opportunity for growth and innovation.
   I'm eager to apply my skills and continue learning in the dynamic field of software development and design, while fostering personal and professional growth along the way.</p>
 </div>
-
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
