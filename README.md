@@ -6,7 +6,7 @@
 </div>
 <br>
 </div>
-<div align="center">
+<div align="left">
   <h2>About Me</h2>
   <p>I'm a multiplatform development student from Spain with a strong proficiency in several programming languages.
   I also have expertise in UI/UX design tools like Figma and Adobe XD. My passion for graphic design extends into my free time, where I enjoy editing videos and creating immersive worlds using 3d software. Through these 
