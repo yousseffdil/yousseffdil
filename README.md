@@ -9,11 +9,7 @@
 <div align="left">
   <h2>About Me</h2>
   <p>I'm a multiplatform development student from Spain with a strong proficiency in several programming languages.
-  I also have expertise in UI/UX design tools like 
-    <ul>
-      <li>Figma</li>
-      <li>Adobe XD</li>
-    </ul>
+  I also have expertise in UI/UX design tools like Figma and Adobe XD.
   My passion for graphic design extends into my free time, where I enjoy editing videos and creating immersive worlds using 3d software. Through these 
   creative pursuits, I've not only honed my technical skills but also cultivated a mindset of continuous growth and learning.
 
