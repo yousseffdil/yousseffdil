@@ -9,18 +9,10 @@
 <div align="center">
   <h2>About Me</h2>
   <ul>
-    <li>
       👋 Hi, I’m @yousseffdil
-    </li>
-    <li>
       🌱 I’m currently learning ML
-    </li>
-    <li>
       📫 fdilyoussef@gmail.com
-    </li>
-    <li>
       👀 I love the graphic design 🖊️
-    </li>
   </ul>
 </div>
 <br>
