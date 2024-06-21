@@ -6,7 +6,7 @@
 </div>
 <br>
 </div>
-<div align="left">
+<div align="center">
   <h2>About Me</h2>
   <ul>
     <li>
