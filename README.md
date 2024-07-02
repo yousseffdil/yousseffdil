@@ -9,10 +9,10 @@
 <div align="center">
   <h2>About Me</h2>
   <ul>
-      👋 Hi, I’m @yousseffdil
-      🌱 I’m currently learning ML
-      📫 fdilyoussef@gmail.com
-      👀 I love the graphic design 🖊️
+      <li>👋 Hi, I’m @yousseffdil</li>
+      <li>🌱 I’m currently learning ML & Working in EIO</li>
+      <li>📫 fdilyoussef@gmail.com</li>
+      <li>👀 I love the graphic design 🖊️</li>
   </ul>
 </div>
 <br>
