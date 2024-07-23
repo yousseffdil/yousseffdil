@@ -2,7 +2,7 @@
   <h1>Hi👋</h1>
 </div>
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-251.gif](https://i.redd.it/hdfkqxbcmpe61.gif)" />
+  <img src="https://i.pinimg.com/originals/6b/6d/c2/6b6dc2cf132ca0e9fc1ad397e59edb68.gif" />
 </div>
 <br>
 </div>
