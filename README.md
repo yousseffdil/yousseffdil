@@ -12,7 +12,7 @@
       <li>👋 Hi, I’m @yousseffdil</li>
       <li>🌱 I’m currently learning ML & Working in EIO</li>
       <li>📫 fdilyoussef@gmail.com</li>
-      <li>👀 I love the graphic design 🖊️</li>
+      <li>👀 I love graphic design 🖊️</li>
   </ul>
 </div>
 <br>
