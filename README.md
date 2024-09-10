@@ -1,21 +1,34 @@
 <div align="center">
-  <h1>Hi👋</h1>
-</div>
-<div align="center">
   <img src="https://i.pinimg.com/originals/6b/6d/c2/6b6dc2cf132ca0e9fc1ad397e59edb68.gif" />
 </div>
+
 <br>
-</div>
-<div align="center">
-  <h2>About Me</h2>
-  <ul>
-      <li>👋 Hi, I’m @yousseffdil</li>
-      <li>🌱 I’m currently learning ML & Working in EIO</li>
-      <li>📫 fdilyoussef@gmail.com</li>
-      <li>👀 I love graphic design 🖊️</li>
-  </ul>
-</div>
+
+# 👋 Hi there! I'm Youssef Fdil
+
+I'm currently pursuing a **Bachelor's degree in Computer Engineering** from Spain with a strong proficiency in several programming languages. 💻
+
+## 🔧 Tech Skills:
+- **Programming Languages**: Python, JavaScript, Java, etc. 👨‍💻
+- **UI/UX Design**: Figma, Adobe XD 🎨
+
+## 🎨 Passion for Design
+My passion for **graphic design** extends into my free time, where I enjoy:
+- **Video editing** 🎥
+- **Creating immersive 3D worlds** using tools like Blender 🛠️
+
+Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
+
+## 💡 Personal Development
+Beyond technical proficiency, I'm committed to personal development and strive to embrace new challenges with enthusiasm. Every project, whether it's coding a new feature or refining a design, offers an opportunity for **growth and innovation**. 🌱
+
+## 🌍 Always Learning
+I'm eager to apply my skills and continue learning in the dynamic field of **software development and design**, while fostering personal and professional growth along the way.
+
+Let's connect and build something great together! 🚀
+
 <br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
