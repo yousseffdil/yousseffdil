@@ -16,7 +16,7 @@ I'm currently pursuing a **Bachelor's degree in Computer Engineering** in Spain,
 My passion for **graphic design** extends into my free time, where I enjoy:
 - **Video editing** 🎥
 - **Creating 3D renders** using tools like Blender 🛠️
-- **Music Producer**: [YouTube Channel where I post some music 🎶](https://www.youtube.com/@YFB_Prod)
+- **Music Producer** 🎶 [YouTube Channel where I post some music ](https://www.youtube.com/@YFB_Prod)
 
 Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
 
