@@ -15,7 +15,7 @@ I'm currently pursuing a **Bachelor's degree in Computer Engineering** from Spai
 ## 🎨 Passion for Design
 My passion for **graphic design** extends into my free time, where I enjoy:
 - **Video editing** 🎥
-- **Creating immersive 3D worlds** using tools like Blender 🛠️
+- **Creating 3D renders** using tools like Blender 🛠️
 
 Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
 
