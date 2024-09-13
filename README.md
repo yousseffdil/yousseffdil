@@ -9,7 +9,7 @@
 I'm currently pursuing a **Bachelor's degree in Computer Engineering** from Spain with a strong proficiency in several programming languages. 💻
 
 ## 🔧 Tech Skills:
-- **Programming Languages**: Python, JavaScript, Java, etc. 👨‍💻
+- **Programming Languages**: JavaScript, React, Angular, [REACT FIBER Three.JS](https://github.com/pmndrs/react-three-fiber), C#, Kotlin, Python with Tensorflow. 👨‍💻
 - **UI/UX Design**: Figma, Adobe XD 🎨
 
 ## 🎨 Passion for Design
