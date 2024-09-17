@@ -60,11 +60,3 @@ Let's connect and build something great together! 🚀
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </div>
-
-
-## 📹 Latest Videos
-
-<!-- Latest videos from YouTube channel -->
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3e2SOxVUbcE?si=y0HQjgaBiv8jyKed"  frameborder="0" allowfullscreen></iframe>
-</div>
