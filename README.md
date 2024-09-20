@@ -70,6 +70,10 @@ Let's connect and build something great together! 🚀
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" height="40" alt="After Effects logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.pixabay.com/photo/2021/02/03/12/28/adobe-illustrator-5977785_640.png" height="40" alt="Illustrator logo">
+  <img width="12" />
   <a href="https://www.youtube.com/@YFB_Prod" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"  width="40" />
   </a>
