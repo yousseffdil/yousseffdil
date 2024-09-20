@@ -6,9 +6,7 @@
 <div align="center">
   <img src="background.gif" />
 </div>
-
 <br>
-
 # 👋 Hi there! I'm Youssef Fdil
 
 I'm currently pursuing a **Bachelor's degree in Computer Engineering** in Spain, with strong proficiency in several programming languages. 💻
