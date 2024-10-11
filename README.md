@@ -79,6 +79,8 @@ Let's connect and build something great together! 🚀
 </div>
 <h2>👥SOCIAL</h2>
 <div align="left">
-  <img src="https://img.icons8.com/color/512/linkedin.png"  width="50"/>
+  <a href="https://www.linkedin.com/in/youssef-fdil-6b6497187/" target="_blank">
+    <img src="https://img.icons8.com/color/512/linkedin.png"  width="50"/>
+  </a>
 </div>
 
