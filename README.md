@@ -13,14 +13,16 @@
 I'm currently pursuing a **Bachelor's degree in Computer Engineering** in Spain, with strong proficiency in several programming languages. 💻
 
 <h2>🔧 Tech Skills:</h2>
-- **Programming Languages**: JavaScript, React, Angular, [REACT FIBER Three.JS](https://github.com/pmndrs/react-three-fiber), C#, Kotlin, Python with Tensorflow. 👨‍💻
+- **Programming Languages**: JavaScript, React, Angular, <a href="https://github.com/pmndrs/react-three-fiber">REACT FIBER</a>,Three JS,  C#, Kotlin, Python with Tensorflow. 👨‍💻
 - **UI/UX Design**: Figma, Adobe XD 🎨
 
 <h2>🎨 Passion for Design</h2>
 My passion for **graphic design** extends into my free time, where I enjoy:
-- **Video editing** 🎥
-- **3D** using tools like Blender 🛠️
-- **Music Producer** 🎶 [YouTube Channel where I post some music ](https://www.youtube.com/@YFB_Prod)
+<ul>
+  <li>Video editing 🎥</li>
+  <li>3D using tools like Blender 🛠️</li>
+  <li>Music Producer 🎶 <a href="https://www.youtube.com/@YFB_Prod">YouTube Channel where I post some music</a></li>
+</ul>
 
 Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
 
