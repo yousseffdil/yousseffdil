@@ -13,11 +13,17 @@
 I'm currently pursuing a **Bachelor's degree in Computer Engineering** in Spain, with strong proficiency in several programming languages. 💻
 
 <h2>🔧 Tech Skills:</h2>
-- **Programming Languages**: JavaScript, React, Angular, <a href="https://github.com/pmndrs/react-three-fiber">REACT FIBER</a>,Three JS,  C#, Kotlin, Python with Tensorflow. 👨‍💻
-- **UI/UX Design**: Figma, Adobe XD 🎨
+<u>
+  <li>
+  Programming Languages: JavaScript, React, Angular, <a href="https://github.com/pmndrs/react-three-fiber">REACT FIBER</a>,Three JS,  C#, Kotlin, Python with Tensorflow. 👨‍💻
+  </li>
+  <li>
+  UI/UX Design: Figma, Adobe XD 🎨
+  </li>
+</u>
 
 <h2>🎨 Passion for Design</h2>
-My passion for **graphic design** extends into my free time, where I enjoy:
+My passion for graphic design extends into my free time, where I enjoy:
 <ul>
   <li>Video editing 🎥</li>
   <li>3D using tools like Blender 🛠️</li>
@@ -27,10 +33,10 @@ My passion for **graphic design** extends into my free time, where I enjoy:
 Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
 
 <h2>💡 Personal Development</h2>
-Beyond technical proficiency, I'm committed to personal development and strive to embrace new challenges with enthusiasm. Every project, whether it's coding a new feature or refining a design, offers an opportunity for **growth and innovation**. 🌱
+Beyond technical proficiency, I'm committed to personal development and strive to embrace new challenges with enthusiasm. Every project, whether it's coding a new feature or refining a design, offers an opportunity for growth and innovation. 🌱
 
 <h2>🌍 Always Learning</h2>
-I'm eager to apply my skills and continue learning in the dynamic field of **software development and design**, while fostering personal and professional growth along the way.
+I'm eager to apply my skills and continue learning in the dynamic field of software development and design, while fostering personal and professional growth along the way.
 
 Let's connect and build something great together! 🚀
 
