@@ -81,14 +81,16 @@ Let's connect and build something great together! 🚀
   <img width="12" />
   <img src="https://cdn.pixabay.com/photo/2021/02/03/12/28/adobe-illustrator-5977785_640.png" height="40" alt="Illustrator logo">
   <img width="12" />
-  <a href="https://www.youtube.com/@YFB_Prod" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"  width="40" />
-  </a>
+
 </div>
-<h2>👥SOCIAL</h2>
+<h2>👥SOCIAL MEDIA</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/youssef-fdil-6b6497187/" target="_blank">
     <img src="https://img.icons8.com/color/512/linkedin.png"  width="50"/>
+  <img width="12" />
+  </a>
+    <a href="https://www.youtube.com/@YFB_Prod" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"  width="40" />
   </a>
 </div>
 
