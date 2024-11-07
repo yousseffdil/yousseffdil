@@ -4,6 +4,7 @@
   </a>
 </div>
 <div align="center">
+  <img src="background.gif" />
 </div>
 <br>
 
