@@ -83,18 +83,3 @@ Let's connect and build something great together! 🚀
   <img width="12" />
 
 </div>
-<h2>👥SOCIAL MEDIA</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/youssef-fdil-6b6497187/" target="_blank">
-    <img src="https://img.icons8.com/color/512/linkedin.png"  width="50"/>
-  <img width="12" />
-  </a>
-    <a href="https://www.youtube.com/@YFB_Prod" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"  width="40" />
-  </a>
-</div>
-<div align="center">
-  <h1>LeetCode</h1>
-  <img src="https://leetcard.jacoblin.cool/yousseffdil">
-</div>
-
