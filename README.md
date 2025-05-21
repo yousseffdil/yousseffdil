@@ -27,7 +27,7 @@ My passion for graphic design extends into my free time, where I enjoy:
 <ul>
   <li>Video editing 🎥</li>
   <li>3D using tools like Blender 🛠️</li>
-  <li>Music Producer 🎶 <a href="https://www.youtube.com/@YFB_Prod">YouTube Channel where I post some music</a></li>
+  <li>Music Producer 🎶
 </ul>
 
 Through these creative pursuits, I've not only honed my technical skills but also developed a mindset of continuous growth and learning. 🚀
