@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Youssef Fdil</h1>
 
 <p align="center">
-  Full-Stack Developer · Computer Engineering Student @ UOC 🇪🇸
+  Full-Stack Developer 
 </p>
 
 <p align="center">
