@@ -68,7 +68,7 @@
 
 - Building AI assistant stacks (Angular + ASP.NET + LLM agents + MCP)
 - Deep-diving into data structures & algorithms
-- Learning Rust for a personal compiler project
+
 
 ---
 
